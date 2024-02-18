@@ -1,11 +1,11 @@
 # Visual Studio Code Installer for Termux
 
-![GitHub](https://img.shields.io/github/license/Tanmay-Tiwaricyber/install-vscode-termux)
-![GitHub last commit](https://img.shields.io/github/last-commit/Tanmay-Tiwaricyber/install-vscode-termux)
-![GitHub issues](https://img.shields.io/github/issues/Tanmay-Tiwaricyber/install-vscode-termux)
-![GitHub contributors](https://img.shields.io/github/contributors/Tanmay-Tiwaricyber/install-vscode-termux)
-![GitHub stars](https://img.shields.io/github/stars/Tanmay-Tiwaricyber/install-vscode-termux)
-![GitHub forks](https://img.shields.io/github/forks/Tanmay-Tiwaricyber/install-vscode-termux)
+![GitHub](https://img.shields.io/github/license/Tanmay-Tiwaricyber/vscode-termux)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tanmay-Tiwaricyber/vscode-termux)
+![GitHub issues](https://img.shields.io/github/issues/Tanmay-Tiwaricyber/vscode-termux)
+![GitHub contributors](https://img.shields.io/github/contributors/Tanmay-Tiwaricyber/vscode-termux)
+![GitHub stars](https://img.shields.io/github/stars/Tanmay-Tiwaricyber/vscode-termux)
+![GitHub forks](https://img.shields.io/github/forks/Tanmay-Tiwaricyber/vscode-termux)
 
 A Bash script to automate the installation of Visual Studio Code in Termux, providing a convenient code editing environment on Android devices.
 
